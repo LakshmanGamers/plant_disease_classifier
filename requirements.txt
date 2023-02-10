@@ -1,0 +1,10 @@
+Flask==2.2.2
+numpy
+PIL
+datetime
+werkzeug.utils
+pathlib
+keras_preprocessing
+tensorflow.keras.applications.vgg16
+matplotlib.image
+sklearn.metrics
