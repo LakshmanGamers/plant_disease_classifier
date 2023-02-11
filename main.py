@@ -41,7 +41,7 @@ app = Flask(__name__)
 @app.route('/',methods =["GET", "POST"])
 def index():
     clas =[]
-    image =""
+    
     pat=""
     if request.method == "POST":
         image = request.files.get('img', '')
