@@ -3,7 +3,5 @@ numpy
 pillow
 datetime
 pathlib
-keras_preprocessing
-tensorflow
 matplotlib
 sklearn
